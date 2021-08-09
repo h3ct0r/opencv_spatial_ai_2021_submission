@@ -18,6 +18,8 @@ Our source code is freely available on GitHub. The links to the different code r
     - https://github.com/ITVRoC/espeleo_planner
 - Mesh reconstruction integrated with ROS: 
     - https://github.com/ITVRoC/espeleo_planner/tree/master/recon_surface
+- RTAB-Map OAK-D integration (compatible with the `docker_oakd_ros container`):
+    - https://github.com/rafaelfgs/oak_rtabmap
 
 ## Video demonstration
 A video of the results of this project can be acessed in https://www.youtube.com/watch?v=Y6YkvsPTYww
