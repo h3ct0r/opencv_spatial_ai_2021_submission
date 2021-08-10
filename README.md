@@ -22,6 +22,6 @@ Our source code is freely available on GitHub. The links to the different code r
     - https://github.com/rafaelfgs/oak_rtabmap
 
 ## Video demonstration
-A video of the results of this project can be acessed in https://www.youtube.com/watch?v=Y6YkvsPTYww
+A video of the results of this project can be acessed in https://youtu.be/2sJpyIe-XZY
 
 ![oakd_github](https://user-images.githubusercontent.com/2656938/128640037-c61afa5f-8fd4-43ab-91f5-d5018e4020f9.gif?v26)
